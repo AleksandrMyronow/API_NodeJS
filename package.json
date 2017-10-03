@@ -8,7 +8,9 @@
     "express": "^4.16.1",
     "nvm": "^0.0.4"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "mongodb": "^2.2.31"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
